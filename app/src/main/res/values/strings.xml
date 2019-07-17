@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">हिंदी समाचार</string>
+    <string name="banner_add_admob">ca-app-pub-8922748217311716/2254198293</string>
+    <string name="interstitial_add_admob">ca-app-pub-8922748217311716/5328419355</string>
+    <string name="test_banner_add_admob">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_interstitial_add_admob">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
